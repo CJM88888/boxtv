@@ -1,10 +1,10 @@
 ﻿
 {
-"spider":"https://github.com/CJM88888/boxtv/blob/main/cjm.jar",
+"spider":"https://github.com/CJM88888/boxtv/cjm.jar",
 
 
 
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL0NKTTg4ODg4L2JveHR2L2Jsb2IvbWFpbi9saXZlLnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL0NKTTg4ODg4L2JveHR2L2xpdmUudHh0"]}]}],
 
 
 "sites":[
