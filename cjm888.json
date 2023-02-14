@@ -5,6 +5,7 @@
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL0NKTTg4ODg4L2JveHR2L2Jsb2IvbWFpbi9saXZlLnR4dA=="]}]}],
 	
 "sites":[
+	
 {"key":"csp_appysv2_小群群TV","name":"小群群(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.wnvod.net/lvdou_api.php/v1.vod"},
 {"key":"csp_appysv2_小城TV","name":"小城(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.i7yc.cn/api.php/v1.vod"},
 {"key":"csp_appysv2_佳佳TV","name":"佳佳(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.jiajia.pub/api.php/v1.vod"},
