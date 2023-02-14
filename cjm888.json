@@ -1,12 +1,8 @@
 ﻿
 {
 "spider":"https://github.com/CJM88888/boxtv/main/cjm.jar",
-
-
-
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL0NKTTg4ODg4L2JveHR2L2Jsb2IvbWFpbi9saXZlLnR4dA=="]}]}],
-
-
+	
 "sites":[
 {"key":"csp_appysv2_小群群TV","name":"小群群(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.wnvod.net/lvdou_api.php/v1.vod"},
 {"key":"csp_appysv2_小城TV","name":"小城(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.i7yc.cn/api.php/v1.vod"},
@@ -453,7 +449,6 @@
 {"key":"海外电影","name":"海外电影(聚)","type":1,"api":"https://www.200121.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 #
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
-],
 
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
